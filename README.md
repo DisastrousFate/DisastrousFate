@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DisastrousFate
-- 👀 I’m interestedin learning how to code game engines or applications using c++ or other languages!
-- 🌱 I’m currently learning c++ basics
+- 👀 I’m interested in software development of all types. I am working on arduino, python and roblox lua at the moment.
+- 🌱 I’m currently learning arduino and messing around on roblox to improve my knowledge.
 - 💞️ I’m looking to collaborate on nothing ;)
 - 📫 How to reach me: alex.halesworth@gmail.com
 
